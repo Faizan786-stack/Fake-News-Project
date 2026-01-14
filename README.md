@@ -16,49 +16,27 @@ Manual testing for custom news input
 
 Clear classification output: Fake News or Not Fake News
 
-🛠️ Technologies Used
+## Technologies Used
 
 Python
-
 Pandas
-
 NumPy
-
 Scikit-learn
-
 NLTK
-
 Jupyter Notebook
 
-📂 Project Structure
-Fake-News-Detection/
-│
-├── Fake-News-Detection.ipynb   # Main notebook
-├── dataset/                    # News dataset (if available)
-├── README.md                   # Project documentation
-
-📊 Dataset
-
+## Dataset
 The dataset contains labeled news articles with:
-
 Text – News content
-
 Label –
+     0 → Fake News
+     1 → Real News
 
-0 → Fake News
-
-1 → Real News
-
-⚙️ How It Works
+## How It Works
 
 Load and explore the dataset
-
 Clean and preprocess the news text
-
 Convert text into numerical features
-
 Train machine learning models
-
 Evaluate model performance
-
 Test new news articles manually
