@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on building a Fake News Detection System using Machine Learning and Natural Language Processing (NLP) techniques. The goal is to classify news articles as Fake or Real based on their textual content. With the rapid spread of misinformation online, this system helps in identifying unreliable news automatically.
+This project focuses on building a Fake News Detection System using Machine Learning and techniques. The goal is to classify news articles as Fake or Real based on their textual content. With the rapid spread of misinformation online, this system helps in identifying unreliable news automatically.
 
 ## Features
 
