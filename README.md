@@ -61,3 +61,5 @@ The model achieves good accuracy and effectively distinguishes between fake and 
 
 ## Dataset
 Fake News: sha256:bebf8bcfe95678bf2c732bf413a2ce5f621af0102c82bf08083b2e5d3c693d0c
+
+True News: sha256:ba0844414a65dc6ae7402b8eee5306da24b6b56488d6767135af466c7dcb2775
