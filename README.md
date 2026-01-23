@@ -58,3 +58,6 @@ Test new news articles manually
 ## Results
 
 The model achieves good accuracy and effectively distinguishes between fake and real news articles using text-based features.
+
+## Dataset
+Fake News: sha256:bebf8bcfe95678bf2c732bf413a2ce5f621af0102c82bf08083b2e5d3c693d0c
